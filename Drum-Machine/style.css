@@ -1,0 +1,26 @@
+.btn {
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  padding: 25px;
+  font-size: large;
+  color: black;
+}
+body {
+  background-color: #434649;
+}
+
+.container {
+  max-width: 400px;
+}
+.card {
+  background-color: #c2c4c9;
+  border: rgb(46, 43, 43) solid 5px;
+}
+
+#display {
+  font-size: large;
+  background-color: #989aa0;
+  margin-bottom: 10;
+}
+
