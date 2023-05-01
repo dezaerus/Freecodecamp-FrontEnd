@@ -1,0 +1,24 @@
+.btn {
+  width: 80px;
+  height: 75px;
+  font-size: large;
+  border: #606061 solid 2px;
+  color: rgb(148, 142, 142);
+}
+#root {
+  height: 100%;
+  width: 100%;
+  background-color: #5e6c7a;
+}
+
+.container {
+  max-width: 400px;
+}
+
+.card{
+  background-color: #302e2e;
+}
+#display {
+  color: rgb(206, 201, 195);
+  background-color: rgb(100, 100, 100);
+}
