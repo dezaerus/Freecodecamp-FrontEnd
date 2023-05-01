@@ -1,4 +1,4 @@
-# Freecodecamp-FrontEnd
+# Freecodecamp-Frontend
  Front End Development Libraries projects
 
 - [Random-quote-machine](
