@@ -12,3 +12,5 @@ https://codepen.io/dezaerus/pen/YzJxzov
 - [Drum-machine](
 https://codepen.io/dezaerus/pen/abRyypV?editors=0110
 )
+- [Javascript-calculator](
+https://codepen.io/dezaerus/pen/GRYvXyL)
